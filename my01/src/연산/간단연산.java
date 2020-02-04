@@ -1,0 +1,18 @@
+package 연산;
+
+public class 간단연산 {
+
+	public static void main(String[] args) {
+		System.out.println(100+200);
+		
+		int n1=200;
+		int n2=100;
+		int n3=n1+n2;
+		System.out.println("두수의합은 "+n3);
+		int n4=n3+100;
+		System.out.println("세수의합은 "+n4);
+		
+
+	}
+
+}
